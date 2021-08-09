@@ -1,0 +1,18 @@
+body{
+ /* background-image: url("/img/bg.jpg");
+   /* fallback for old browsers */
+   background-color: #F4B757;
+/*background: -webkit-linear-gradient(to right, #FFA12C, #FF872C);  
+/*background: linear-gradient(to right,  #F6DA62, #FF872C, #F13D36);  */
+
+
+}
+#welcome{
+  background-image: url("/img/bg03.jpg");
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+#rlink{
+  color: #282828;
+}
